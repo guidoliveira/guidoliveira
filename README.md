@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guidoliveira
 - 👀 I’m interested in Data Science and Fullstack Development
-- 🌱 I’m currently learning Python, Java, R and C#
+- 🌱 I’m currently learning Python, Java and C#
 - 💞️ I’m looking to collaborate on Data Science projects and Data Analysis as well.
 - 📫 How to reach me: send me an email on guidoliveira160@gmail.com
 
